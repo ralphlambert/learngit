@@ -7,3 +7,5 @@ good
 hello,baby
 
 is bad
+
+create a new branch is easy
