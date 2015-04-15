@@ -8,4 +8,5 @@ hello,baby
 
 is bad
 
-git is not simple
+create a new branch is easy and simple
+
