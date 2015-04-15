@@ -5,3 +5,5 @@ git is free software.
 good
 
 hello,baby
+
+is bad
